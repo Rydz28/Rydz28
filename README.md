@@ -1,15 +1,12 @@
-<!-- Header dengan glow effect -->
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=header&text=Ryan%20Dzakwan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=27" alt="Header Kece"/>
   
-  <!-- GIF developer futuristik -->
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Coder Kece"/>
   
-  <!-- Typing text keren -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ayooo!+%F0%9F%91%8B+Gue+Ryan+Dzakwan+Adriansyah;Full+Stack+Web+Developer+Pemula;Selalu+Belajar+dan+Berkembang!;Let's+Connect+and+Create+Magic+%E2%9C%A8" alt="Typing SVG" /></a>
 </div>
 
-<!-- Shield Badges Neon -->
 <div align="center">
   <a href="https://www.linkedin.com/in/ryan-dzakwan-970992299" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
@@ -29,7 +26,6 @@
   <img src="https://komarev.com/ghpvc/?username=ryandz&style=for-the-badge&color=blueviolet" alt="Yang Liat Profile Gue"/>
 </div>
 
-<!-- Pemisah Futuristik -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
 </div>
@@ -45,7 +41,6 @@ Gue tuh developer yang lagi ngejar mimpi!
 - 💡 Passion gue: Bikin website keren yang simple tapi powerful  
 - ⚡ Fakta unik: Mulai coding sejak Semester 1 cuma modal tutorial YouTube dan Bootcamp
 
-<!-- Pemisah Futuristik Skill -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Skill Separator">
 </div>
@@ -79,7 +74,6 @@ Gue tuh developer yang lagi ngejar mimpi!
   </tr>
 </table>
 
-<!-- Tech learning -->
 - 🐘 **PHP**: Backend web development andalan gue  
 - 🗃️ **MySQL**: Basis data favorit buat nyimpen informasi  
 - 💻 **HTML**: Bangun struktur website dari dasar  
@@ -88,7 +82,6 @@ Gue tuh developer yang lagi ngejar mimpi!
 - 🌬️ **Tailwind CSS**: Framework CSS modern buat desain cepat  
 - 🖥️ **VS Code**: Text editor andalan buat coding  
 
-<!-- Gradient Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 💡 Rencana Belajar Gue  
@@ -113,7 +106,6 @@ Gue tuh developer yang lagi ngejar mimpi!
 - Myskill course 
 - Komunitas programmer
 
-<!-- Pemisah Kece Statistics -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Awesome Separator" width="100%">
 </div>
@@ -135,7 +127,6 @@ Gue tuh developer yang lagi ngejar mimpi!
   <img src="https://github-profile-trophy.vercel.app/?username=ryandz&theme=onestar&no-frame=true&column=7&row=1" alt="Trofi Keren Gue"/>  
 </div>  
 
-<!-- Cool Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryandz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%"/>
 
 ## 📝 Blog Post Terbaru Gue  
@@ -144,12 +135,10 @@ Gue tuh developer yang lagi ngejar mimpi!
 <!-- Bakal diupdate blog kece gue -->  
 <!-- BLOG-POST-LIST:END -->  
 
-<!-- Footer Keren -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer&fontSize=14" width="100%"/>
 </div>
 
-<!-- Quotes Motivasi -->
 <div align="center">  
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote Kece Buat Motivasi"/>  
 </div>
