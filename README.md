@@ -1,23 +1,18 @@
-<div style="background: #0d0d1a; color: #e0f7fa; padding: 2rem; border-radius: 1rem;">
-
 <div align="center">  
-  <img height="200" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Futuristic Animation" style="filter: drop-shadow(0 0 20px #00e5ff);"/>  
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding Animation"/>  
 </div>  
 
 <h1 align="center">Ayooo! 👋 Gue Ryan Dzakwan Adriansyah</h1>  
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00e5ff&background=0d0d1a&center=true&vCenter=true&width=640&lines=Welcome+to+My+Futuristic+Readme;I+Code+in+Neon+Style;Enjoy+the+Experience" alt="Typing Animation" />
-</div>
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/ryan-dzakwan-970992299/" target="_blank">  
-    <img src="https://img.shields.io/badge/LinkedIn-00e5ff?style=for-the-badge&logo=linkedin&logoColor=0d0d1a" alt="LinkedIn Gue" style="filter: drop-shadow(0 0 8px #00e5ff);"/>  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Gue"/>  
   </a>  
   <a href="https://www.instagram.com/ryan.dzakwan" target="_blank">  
-    <img src="https://img.shields.io/badge/Instagram-ff4081?style=for-the-badge&logo=instagram&logoColor=0d0d1a" alt="Instagram Gue" style="filter: drop-shadow(0 0 8px #ff4081);"/>  
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Gue"/>  
   </a>  
   <a href="https://ryan-dzakwan-adriansyah.my.id/" target="_blank">  
-    <img src="https://img.shields.io/badge/Portfolio-00e676?style=for-the-badge&logo=moleculer&logoColor=0d0d1a" alt="Website Portofolio Gue" style="filter: drop-shadow(0 0 8px #00e676);"/>  
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=moleculer&logoColor=white" alt="Website Portofolio Gue"/>  
   </a>  
 </div>
 
@@ -80,10 +75,6 @@ Gue tuh developer yang lagi ngejar mimpi!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryandz&layout=compact&theme=radical" alt="Bahasa Favorit Gue"/>  
 </div>  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26gsdR3juZyY5x3MQ/giphy.gif" alt="Neon Wave Divider" style="width:100%; border-radius:8px;"/>
-</div>
-
 ## 🏆 Piala GitHub Gue  
 
 <div align="center">  
@@ -108,6 +99,4 @@ Gue tuh developer yang lagi ngejar mimpi!
 
 <div align="center">  
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote Kece Buat Motivasi"/>  
-</div>
-
 </div>
