@@ -101,16 +101,6 @@
     </div>
 </details>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" alt="Skills in Progress"/>
-    <br>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="500px"/>
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f2e3ef8dd02526581589afa57ec75498c6d429/assets/banner.gif" width="100%" alt="Skill Separator"/>
-</div>
-
 ## 🛠 Bahasa & Tools Andalan Gue  
 
 <div align="center">
