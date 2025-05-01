@@ -33,8 +33,7 @@
 <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello-world-banner.gif" alt="separator" width="100%"/>
 </div>
 
-## Tentang Gue Nih
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## Tentang Gue Nih <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer+in+Progress;Passionate+Web+Developer;Exploring+the+Digital+Universe" alt="About Me Typing"/>
