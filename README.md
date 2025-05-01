@@ -5,13 +5,13 @@
 <h1 align="center">Ayooo! 👋 Gue Ryan Dzakwan Adriansyah</h1>  
 
 <div align="center">  
-  <a href="https://www.linkedin.com/in/ryan-dzakwan" target="_blank">  
+  <a href="https://www.linkedin.com/in/ryan-dzakwan-970992299/" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Gue"/>  
   </a>  
   <a href="https://www.instagram.com/ryan.dzakwan" target="_blank">  
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Gue"/>  
   </a>  
-  <a href="https://ryandz.my.id" target="_blank">  
+  <a href="https://ryan-dzakwan-adriansyah.my.id/" target="_blank">  
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=moleculer&logoColor=white" alt="Website Portofolio Gue"/>  
   </a>  
 </div>
