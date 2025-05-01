@@ -183,8 +183,6 @@ Gue tuh developer yang lagi ngejar mimpi!
   <img src="https://github-profile-trophy.vercel.app/?username=ryandz&theme=onestar&no-frame=true&column=7&row=1" alt="Trofi Keren Gue"/>  
 </div>  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryandz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%"/>
-
 ## 📝 Blog Post Terbaru Gue  
 
 <!-- BLOG-POST-LIST:START -->  
