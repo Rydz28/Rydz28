@@ -191,40 +191,15 @@ Gue tuh developer yang lagi ngejar mimpi!
 
 <div align="center" style="margin-top: 20px;">
         <a href="https://github.com/Rydz28">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryandz&bg_color=0D1117&color=00bfff&line=80ffdb&point=ffffff&area=true&area_color=00b4d880&hide_border=true" width="95%" alt="Activity Graph" style="border-radius: 10px; box-shadow: 0 5px 25px rgba(0,191,255,0.15);" />
-        </a>
-</div>
-
-<div align="center" style="margin: 20px 0;">
-        <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rydz28/ryandz/output/github-contribution-grid-snake-dark.svg" />
-                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rydz28/ryandz/output/github-contribution-grid-snake.svg" />
-                <img alt="github-snake" src="https://raw.githubusercontent.com/Rydz28/Rydz28/output/github-contribution-grid-snake.svg" style="width: 100%; max-width: 800px;" />
-        </picture>
-</div>
-
-<div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Tech Animation" />
-</div>
-
-## 🏆 Piala GitHub Gue  
-
-<div align="center">  
-    <img src="https://github-profile-trophy.vercel.app/?username=ryandz&theme=onestar&no-frame=true&column=7&row=1" alt="Trofi Keren Gue" style="width: 100%; border-radius: 10px; box-shadow: 0 5px 25px rgba(0,191,255,0.15);"/>  
-</div>  
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryandz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%"/>
-
-## 📝 Blog Post Terbaru Gue  
 
 <!-- BLOG-POST-LIST:START -->  
 <!-- Bakal diupdate blog kece gue -->  
 <!-- BLOG-POST-LIST:END -->  
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer&fontSize=14" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer&fontSize=14" width="100%"/>
 </div>
 
 <div align="center">  
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote Buat Motivasi" style="border-radius: 10px; box-shadow: 0 5px 25px rgba(0,191,255,0.15);"/>  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote Buat Motivasi"/>  
 </div>
