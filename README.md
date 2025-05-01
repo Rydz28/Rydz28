@@ -85,12 +85,50 @@ Gue tuh developer yang lagi ngejar mimpi!
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 💡 Rencana Belajar Gue  
-- Develop website full-stack sederhana  
-- Kuasai fundamental web development  
-- Bikin project CRUD dengan PHP & MySQL  
-- Explore desain responsif pake Tailwind  
-- Tingkatin skill JavaScript buat interaktivitas  
-- Pahami konsep backend sama frontend  
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-846c285b68a0.gif" width="100%" alt="Learning Path Divider">
+</div>
+
+<div class="learning-container" style="background: linear-gradient(to right, #0d1117, #161b22); border-radius: 10px; padding: 15px; margin: 10px 0; border-left: 4px solid #00bfff;">
+
+<table align="center" width="100%">
+    <tr>
+        <td align="center" width="50%">
+            <img src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623336c.gif" width="80" height="80">
+            <h4>Develop website full-stack sederhana</h4>
+        </td>
+        <td align="center" width="50%">
+            <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80" height="80">
+            <h4>Kuasai fundamental web development</h4>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="80" height="80">
+            <h4>Bikin project CRUD dengan PHP & MySQL</h4>
+        </td>
+        <td align="center">
+            <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="80" height="80">
+            <h4>Explore desain responsif pake Tailwind</h4>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="80" height="80">
+            <h4>Tingkatin skill JavaScript buat interaktivitas</h4>
+        </td>
+        <td align="center">
+            <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="80" height="80">
+            <h4>Pahami konsep backend sama frontend</h4>
+        </td>
+    </tr>
+</table>
+</div>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Learning Progress">
+</div>
 
 ### 🚀 Target Belajar  
 - Bikin website portfolio pribadi  
