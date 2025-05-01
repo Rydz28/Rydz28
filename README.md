@@ -147,7 +147,7 @@ Gue tuh developer yang lagi ngejar mimpi!
 <tr>
 <td align="center">
 <a href="https://power-to-do-list.netlify.app/">
-<img src="https://user-images.githubusercontent.com/74038190/238355349-7c484d10-68c9-43f9-8ca9-b3c27e28a1ef.gif" width="320" height="180" style="object-fit:cover;" alt="Power To Do List Project">
+<img src="aset/Powet-To-Do-List.png" width="320" height="180" style="object-fit:cover;" alt="Coffee Shop Project">
 <br>
 <b>📋 Power To Do List</b>
 </a>
@@ -160,8 +160,7 @@ Website ini adalah membantu pengguna meningkatkan efisiensi, mengurangi stres ak
 </td>
 <td align="center">
 <a href="https://mini-projek-revou-portofolio.netlify.app/">
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="320" height="180" style="object-fit:cover;" alt="Portfolio Website">
-</a>
+<img src="aset/RevoU Portofolio.png" width="320" height="180" style="object-fit:cover;" alt="Portfolio Website">
 <br>
 <b>🌐 Personal Portfolio</b>
 </a>
