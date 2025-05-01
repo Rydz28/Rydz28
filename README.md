@@ -151,7 +151,7 @@ Gue tuh developer yang lagi ngejar mimpi!
 ## 🔥 Statistik GitHub Gue
 
 <div align="center">
-    <a href="https://github.com/ryandz">
+    <a href="https://github.com/Rydz28">
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ryandz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=00ffff&icon_color=00b4d8&title_color=80ffdb" alt="GitHub Stats" />
     </a>
 </div>
@@ -159,10 +159,6 @@ Gue tuh developer yang lagi ngejar mimpi!
 <div align="center">
     <a href="https://github.com/Rydz28">
 
-<div align="center">
-    <a href="https://github.com/Rydz28">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryandz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=80ffdb" alt="Top Languages" width="60%" />
-    </a>
 </div>
 
 <div align="center">
