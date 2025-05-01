@@ -2,11 +2,11 @@
 <div align="center">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=header&text=Ryan%20Dzakwan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=27" alt="Header Kece"/>
     
-    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Coder Kece" style="border-radius: 20px; box-shadow: 0 5px 15px rgba(0,191,255,0.4);"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Coder Kece" style="border-radius: 20px; box-shadow: 0 5px 15px rgba(0,191,255,0.4);"/>
     
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ayooo!+%F0%9F%91%8B+Gue+Ryan+Dzakwan+Adriansyah;Full+Stack+Web+Developer+Pemula;Selalu+Belajar+dan+Berkembang!;Let's+Connect+and+Create+Magic+%E2%9C%A8" alt="Typing SVG" />
-    </a>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ayooo!+%F0%9F%91%8B+Gue+Ryan+Dzakwan+Adriansyah;Full+Stack+Web+Developer+Pemula;Selalu+Belajar+dan+Berkembang!;Let's+Connect+and+Create+Magic+%E2%9C%A8" alt="Typing SVG" />
+</a>
 </div>
 
 <div align="center">
