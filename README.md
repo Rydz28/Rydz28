@@ -61,7 +61,7 @@ Gue tuh developer yang lagi ngejar mimpi!
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
       <br>PHP
     </td>
     <td align="center" width="96">
