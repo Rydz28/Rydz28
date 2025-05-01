@@ -188,15 +188,13 @@ Website portofolio personal yg gue buat pake HTML, CSS & JavaScript
 ## 🔥 Statistik GitHub Gue
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ryandz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00ffff&icon_color=00b4d8&title_color=80ffdb" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rydz28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00ffff&icon_color=00b4d8&title_color=80ffdb" width="49%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rydz28&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ffff&ring=00bfff&fire=80ffdb&currStreakLabel=80ffdb" width="49%" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryandz&bg_color=0D1117&color=00bfff&line=80ffdb&point=ffffff&area=true&area_color=00b4d880&hide_border=true" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rydz28&bg_color=0D1117&color=00bfff&line=80ffdb&point=ffffff&area=true&area_color=00b4d880&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ryandz&theme=algolia&no-frame=true&column=7&row=1" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rydz28&theme=algolia&no-frame=true&column=7&row=1" width="100%" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
