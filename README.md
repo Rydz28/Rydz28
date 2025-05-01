@@ -90,7 +90,7 @@
                 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="80px">
             </td>
             <td style="padding: 15px; background: rgba(77,54,224,0.05); border-radius: 8px;">
-                <b>Nyemplung total ke dunia web development</b> dengan belajar intensif PHP, MySQL, dan modern frontend tools 🚀
+                <b>Nyemplung total ke dunia web development</b> dengan belajar intensif PHP, MySQL, dan frontend tools 🚀
             </td>
         </tr>
     </table>
