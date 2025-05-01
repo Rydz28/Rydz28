@@ -142,6 +142,26 @@ Gue tuh developer yang lagi ngejar mimpi!
 </div>
 
 <div align="center">
+    <a href="https://github.com/ryandz">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryandz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=80ffdb" alt="Top Languages" width="60%" />
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/ryandz">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryandz&bg_color=0D1117&color=00bfff&line=80ffdb&point=ffffff&area=true&area_color=00b4d880&hide_border=true" width="95%" alt="Activity Graph" />
+    </a>
+</div>
+
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryandz/ryandz/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryandz/ryandz/output/github-contribution-grid-snake.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/ryandz/ryandz/output/github-contribution-grid-snake.svg" width="95%" />
+    </picture>
+</div>
+
+<div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Tech Animation" />
 </div>
 
