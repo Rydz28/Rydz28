@@ -54,27 +54,51 @@
     </p>
 </div>
 
-<details>
-    <summary><b>✨ Timeline Perjalanan Ngoding Gue</b></summary>
-    <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500px">
-        <br><br>
-        <table>
-            <tr>
-                <td><b>🔹 Semester 1</b></td>
-                <td>Pertama kali bikin "Hello World" pake HTML/CSS</td>
-            </tr>
-            <tr>
-                <td><b>🔹 Semester 2</b></td>
-                <td>Mulai ngulik dasar JavaScript</td>
-            </tr>
-            <tr>
-                <td><b>🔹 Bootcamp</b></td>
-                <td>Nyemplung total ke dunia web development</td>
-            </tr>
-        </table>
-    </div>
-</details>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="5px" alt="colorful line">
+</div>
+
+<h2 align="center">✨ Timeline Perjalanan Ngoding Gue ✨</h2>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450px">
+</div>
+
+<div align="center">
+    <table width="90%" style="margin: 20px auto; border-collapse: separate; border-spacing: 0 10px;">
+        <tr>
+            <td width="30%" align="center" style="background: rgba(0,191,255,0.1); border-radius: 8px; padding: 10px;">
+                <h3>🔹 Semester 1</h3>
+                <img src="https://user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width="80px">
+            </td>
+            <td style="padding: 15px; background: rgba(77,54,224,0.05); border-radius: 8px;">
+                <b>Pertama kali bikin "Hello World"</b> pake HTML/CSS dan mulai jatuh cinta sama dunia web development 💙
+            </td>
+        </tr>
+        <tr>
+            <td width="30%" align="center" style="background: rgba(0,191,255,0.1); border-radius: 8px; padding: 10px;">
+                <h3>🔹 Semester 2</h3>
+                <img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" width="80px">
+            </td>
+            <td style="padding: 15px; background: rgba(77,54,224,0.05); border-radius: 8px;">
+                <b>Mulai ngulik dasar JavaScript</b> dan bereksperimen dengan DOM manipulation untuk bikin website interaktif ⚡
+            </td>
+        </tr>
+        <tr>
+            <td width="30%" align="center" style="background: rgba(0,191,255,0.1); border-radius: 8px; padding: 10px;">
+                <h3>🔹 Bootcamp</h3>
+                <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="80px">
+            </td>
+            <td style="padding: 15px; background: rgba(77,54,224,0.05); border-radius: 8px;">
+                <b>Nyemplung total ke dunia web development</b> dengan belajar intensif PHP, MySQL, dan modern frontend tools 🚀
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="5px" alt="colorful line">
+</div>
 
 ## 🛠 Bahasa & Tools Andalan Gue  
 
