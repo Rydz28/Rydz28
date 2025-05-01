@@ -136,7 +136,7 @@ Gue tuh developer yang lagi ngejar mimpi!
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryandz/ryandz/output/github-contribution-grid-snake-dark.svg" />
-        <img alt="github-snake" src="https://raw.githubusercontent.com/ryandz/ryandz/output/github-contribution-grid-snake.svg" width="95%" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryandz/ryandz/output/github-contribution-grid-snake.svg" />
     </picture>
 </div>
 
