@@ -96,7 +96,7 @@ Gue tuh developer yang lagi ngejar mimpi!
 ### 💡 Rencana Belajar Gue
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="150"/>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Rocket" width="150"/>
 </div>
 
 <table align="center">
@@ -140,7 +140,7 @@ Gue tuh developer yang lagi ngejar mimpi!
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=2,3,5,30&section=footer" width="80%" />
 </div>
 
-## 🚀 Proyek Kece Gue
+## 🚀 Proyek Gue
 
 <div align="center">
 <table>
