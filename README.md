@@ -116,9 +116,6 @@ Gue tuh developer yang lagi ngejar mimpi!
     <a href="https://github.com/ryandz">
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ryandz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=00ffff&icon_color=00b4d8&title_color=80ffdb" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/ryandz">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ryandz&theme=radical&hide_border=true&background=0D1117&stroke=00bfff&fire=00bfff&currStreakNum=80ffdb&sideNums=80ffdb&ring=00b4d8" alt="GitHub Streak" />
-    </a>
 </div>
 
 <div align="center">
