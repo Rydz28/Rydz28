@@ -33,16 +33,84 @@
 <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello-world-banner.gif" alt="separator" width="100%"/>
 </div>
 
-## 👨‍💻 Tentang Gue Nih
+## Tentang Gue Nih
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<img align="right" width="300" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGH9RLQu-mPaRtQ.gif" alt="Coding Animation"/>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer+in+Progress;Passionate+Web+Developer;Exploring+the+Digital+Universe" alt="About Me Typing"/>
+</div>
 
-Gue tuh developer yang lagi ngejar mimpi!   
+<img align="right" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="Dev Animation"/>
 
-- 🔭 Lagi kembangkan portofolio personal di bidang web development
-- 🌱 Ngebelajar React & Node.js buat upgrade skill coding gue
-- 💡 Passion gue: Bikin website keren yang simple tapi powerful
-- ⚡ Fakta unik: Mulai coding sejak Semester 1 cuma modal tutorial YouTube dan Bootcamp
+### `console.log('Hello World! 👋')`
+
+<div align="left">
+    <p>
+        <strong>⚡ Quick Facts:</strong><br>
+        • 🚀 Ngejar mimpi jadi developer handal<br>
+        • 💻 Coding addict dengan segelas kopi<br>
+        • 🌐 Bikin website yang nggak cuma keren tapi juga fungsional<br>
+        • 🎮 Gamer yang ngerti bahwa hidup itu kayak code: perlu debugging terus<br>
+        • 🎵 Ngoding sambil dengerin playlist lofi beats
+    </p>
+</div>
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <h4>🎯 Current Focus</h4>
+                <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="200px">
+                <ul>
+                    <li>🔭 Developing my web development portfolio</li>
+                    <li>🌱 Mastering React & Node.js ecosystem</li>
+                    <li>🔍 Exploring full-stack architecture patterns</li>
+                </ul>
+            </td>
+            <td>
+                <h4>🧠 Learning Journey</h4>
+                <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200px">
+                <ul>
+                    <li>📚 Started with YouTube tutorials & bootcamps</li>
+                    <li>🏆 Building projects from scratch</li>
+                    <li>🔄 Constant learning & improvement</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<details>
+    <summary><b>✨ Coding Journey Timeline</b></summary>
+    <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500px">
+        <br><br>
+        <table>
+            <tr>
+                <td><b>🔹 Semester 1</b></td>
+                <td>First "Hello World" with HTML/CSS</td>
+            </tr>
+            <tr>
+                <td><b>🔹 Semester 2</b></td>
+                <td>Started learning JavaScript basics</td>
+            </tr>
+            <tr>
+                <td><b>🔹 Bootcamp</b></td>
+                <td>Deep dive into web development</td>
+            </tr>
+            <tr>
+                <td><b>🔹 Now</b></td>
+                <td>Building real-world projects & expanding knowledge</td>
+            </tr>
+        </table>
+    </div>
+</details>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" alt="Skills in Progress"/>
+    <br>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="500px"/>
+</div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f2e3ef8dd02526581589afa57ec75498c6d429/assets/banner.gif" width="100%" alt="Skill Separator"/>
