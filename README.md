@@ -54,31 +54,6 @@
     </p>
 </div>
 
-<div align="center">
-    <table>
-        <tr>
-            <td>
-                <h4>🎯 Fokus Gue Sekarang</h4>
-                <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="200px">
-                <ul>
-                    <li>🔭 Ngembangain portofolio web development gue</li>
-                    <li>🌱 Nguasain React & Node.js sampe jago banget</li>
-                    <li>🔍 Jelajahin pola arsitektur full-stack</li>
-                </ul>
-            </td>
-            <td>
-                <h4>🧠 Perjalanan Belajar Gue</h4>
-                <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200px">
-                <ul>
-                    <li>📚 Mulai dari nonton tutorial YouTube & ikut bootcamp</li>
-                    <li>🏆 Bikin proyek dari nol sampe jadi</li>
-                    <li>🔄 Belajar terus-terusan tanpa kendor</li>
-                </ul>
-            </td>
-        </tr>
-    </table>
-</div>
-
 <details>
     <summary><b>✨ Timeline Perjalanan Ngoding Gue</b></summary>
     <div align="center">
@@ -146,32 +121,59 @@
 <img src="https://i.imgur.com/waxVImv.png" height="40" width="100%">
 </div>
 
-### 💡 Rencana Belajar Gue
+### 💡 Rencana & Fokus Belajar Gue
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Rocket" width="150"/>
 </div>
 
+<div align="center">
+    <table>
+        <tr>
+            <td width="50%">
+                <h4>🎯 Fokus Gue Sekarang</h4>
+                <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="200px">
+                <ul align="left">
+                    <li>🔭 Ngembangain portofolio web development gue</li>
+                    <li>🌱 Nguasain React & Node.js sampe jago banget</li>
+                    <li>🔍 Jelajahin pola arsitektur full-stack</li>
+                </ul>
+            </td>
+            <td width="50%">
+                <h4>🧠 Perjalanan Belajar Gue</h4>
+                <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200px">
+                <ul align="left">
+                    <li>📚 Mulai dari nonton tutorial YouTube & ikut bootcamp</li>
+                    <li>🏆 Bikin proyek dari nol sampe jadi</li>
+                    <li>🔄 Belajar terus-terusan tanpa kendor</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<h3 align="center">🚀 Milestone Belajar</h3>
+
 <table align="center">
 <tr>
-<td>
+<td align="center" width="50%">
 <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="60"/>
 <h4>Develop website full-stack sederhana</h4>
 <p>Membangun aplikasi web dari nol dengan front-end dan back-end</p>
 </td>
-<td>
+<td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60"/>
 <h4>Kuasai fundamental web development</h4>
 <p>Memperdalam konsep dasar HTML, CSS dan JavaScript</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="60"/>
 <h4>Bikin project CRUD dengan PHP & MySQL</h4>
 <p>Menerapkan operasi dasar database dalam aplikasi</p>
 </td>
-<td>
+<td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="60"/>
 <h4>Explore desain responsif pake Tailwind</h4>
 <p>Membangun UI/UX adaptif untuk berbagai perangkat</p>
