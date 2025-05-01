@@ -159,7 +159,7 @@ Website kece buat coffee shop dengan UI/UX yang sleek dan modern
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </td>
 <td align="center">
-<a href="https://github.com/Rydz28/personal-portfolio">
+<a href="https://github.com/revou-fundamental-course/03-mar-25-Rydz28">
 <img src="https://raw.githubusercontent.com/Rydz28/personal-portfolio/main/preview.png" width="320" height="180" style="object-fit:cover;" onerror="this.src='https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif';" alt="Portfolio Website">
 <br>
 <b>🌐 Personal Portfolio</b>
