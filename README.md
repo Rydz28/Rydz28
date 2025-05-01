@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:4d36e0&height=150&section=header&text=Ryan%20Dzakwan&animation=fadeIn&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" alt="Header"/>
 </a>
 
-<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300" alt="Coder Animation"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Modern Coding Animation"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Ayooo!+%F0%9F%91%8B+Gue+Ryan+Dzakwan;Full+Stack+Web+Developer+Pemula;Selalu+Belajar+%26+Berkembang!;Let's+Create+Digital+Magic+%E2%9C%A8" alt="Typing SVG" />
