@@ -149,7 +149,7 @@ Gue tuh developer yang lagi ngejar mimpi!
 <a href="https://power-to-do-list.netlify.app/">
 <img src="aset/Powet-To-Do-List.png" width="320" height="180" style="object-fit:cover;" onerror="this.src='https://user-images.githubusercontent.com/74038190/238355349-7c484d10-68c9-43f9-8ca9-b3c27e28a1ef.gif';" alt="Coffee Shop Project">
 <br>
-<b>☕ Coffee Shop Website</b>
+<b>📋 Power To Do List</b>
 </a>
 <br>
 Website ni adalah membantu pengguna meningkatkan efisiensi, mengurangi stres akibat tumpukan pekerjaan, dan memberikan kendali penuh terhadap manajemen waktu dan tanggung jawab sehari-hari. 
