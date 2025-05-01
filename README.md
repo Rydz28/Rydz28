@@ -130,11 +130,42 @@ Gue tuh developer yang lagi ngejar mimpi!
     <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Learning Progress">
 </div>
 
-### 🚀 Target Belajar  
-- Bikin website portfolio pribadi  
-- Develop sistem informasi sederhana  
-- Belajar integrasi backend sama frontend  
-- Explore framework PHP kayak Laravel  
+### 🚀 Target Belajar
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Target Divider">
+</div>
+
+<table align="center" width="100%">
+    <tr>
+        <td align="center" width="50%">
+            <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="80" height="80">
+            <h4>🌐 Bikin website portfolio pribadi</h4>
+            <p>🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70%</p>
+        </td>
+        <td align="center" width="50%">
+            <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="80" height="80">
+            <h4>💻 Develop sistem informasi sederhana</h4>
+            <p>🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ 40%</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" height="80">
+            <h4>🔄 Belajar integrasi backend sama frontend</h4>
+            <p>🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 20%</p>
+        </td>
+        <td align="center">
+            <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80" height="80">
+            <h4>🚀 Explore framework PHP kayak Laravel</h4>
+            <p>🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 20%</p>
+        </td>
+    </tr>
+</table>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" alt="Progress Animation">
+</div>
 
 ### 📚 Sumber Belajar Favorit  
 - YouTube tutorial  
