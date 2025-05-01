@@ -143,54 +143,54 @@ Gue tuh developer yang lagi ngejar mimpi!
 </div>
 
 <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Learning Progress">
-</div>
-
-### 🚀 Target Belajar  
-<div style="background: linear-gradient(to right, #0d111730, #161b2230); border-radius: 10px; padding: 15px; margin: 10px 0; border-left: 3px solid #00bfff;">
-    <ul style="list-style-type: none; padding-left: 5px;">
-        <li style="margin: 10px 0; position: relative; padding-left: 25px;">
-            <span style="position: absolute; left: 0; top: 0; color: #00bfff;">🎯</span> Bikin website portfolio pribadi
-        </li>
-        <li style="margin: 10px 0; position: relative; padding-left: 25px;">
-            <span style="position: absolute; left: 0; top: 0; color: #00bfff;">🎯</span> Develop sistem informasi sederhana
-        </li>
-        <li style="margin: 10px 0; position: relative; padding-left: 25px;">
-            <span style="position: absolute; left: 0; top: 0; color: #00bfff;">🎯</span> Belajar integrasi backend sama frontend
-        </li>
-        <li style="margin: 10px 0; position: relative; padding-left: 25px;">
-            <span style="position: absolute; left: 0; top: 0; color: #00bfff;">🎯</span> Explore framework PHP kayak Laravel
-        </li>
-    </ul>
-</div>
-
-### 📚 Sumber Belajar Favorit  
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
-    <span style="background: linear-gradient(45deg, #0d1117, #161b22); padding: 8px 15px; border-radius: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); border-left: 2px solid #00bfff;">YouTube tutorial</span>
-    <span style="background: linear-gradient(45deg, #0d1117, #161b22); padding: 8px 15px; border-radius: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); border-left: 2px solid #00bfff;">Dokumentasi resmi teknologi</span>
-    <span style="background: linear-gradient(45deg, #0d1117, #161b22); padding: 8px 15px; border-radius: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); border-left: 2px solid #00bfff;">Udemy course</span>
-    <span style="background: linear-gradient(45deg, #0d1117, #161b22); padding: 8px 15px; border-radius: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); border-left: 2px solid #00bfff;">RevoU course</span>
-    <span style="background: linear-gradient(45deg, #0d1117, #161b22); padding: 8px 15px; border-radius: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); border-left: 2px solid #00bfff;">Myskill course</span>
-    <span style="background: linear-gradient(45deg, #0d1117, #161b22); padding: 8px 15px; border-radius: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); border-left: 2px solid #00bfff;">Komunitas programmer</span>
-</div>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Awesome Separator" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Awesome Separator" width="100%">
 </div>
 
 ## 🔥 Statistik GitHub Gue
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-        <a href="https://github.com/ryandz" style="width: 49%; min-width: 300px;">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ryandz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=00ffff&icon_color=00b4d8&title_color=80ffdb" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 5px 25px rgba(0,191,255,0.2);" />
-        </a>
-        <a href="https://github.com/Rydz28" style="width: 49%; min-width: 300px;">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryandz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=80ffdb" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 5px 25px rgba(0,191,255,0.2);" />
-        </a>
+<div align="center">
+    <a href="https://github.com/ryandz">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ryandz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=00ffff&icon_color=00b4d8&title_color=80ffdb" alt="GitHub Stats" />
+    </a>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-        <a href="https://github.com/Rydz28">
+<div align="center">
+    <a href="https://github.com/Rydz28">
+
+<div align="center">
+    <a href="https://github.com/Rydz28">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryandz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=80ffdb" alt="Top Languages" width="60%" />
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/Rydz28">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryandz&bg_color=0D1117&color=00bfff&line=80ffdb&point=ffffff&area=true&area_color=00b4d880&hide_border=true" width="95%" alt="Activity Graph" />
+    </a>
+</div>
+
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryandz/ryandz/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryandz/ryandz/output/github-contribution-grid-snake.svg" />
+    </picture>
+</div>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Tech Animation" />
+</div>
+
+## 🏆 Piala GitHub Gue  
+
+<div align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=ryandz&theme=onestar&no-frame=true&column=7&row=1" alt="Trofi Keren Gue"/>  
+</div>  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryandz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%"/>
+
+## 📝 Blog Post Terbaru Gue  
 
 <!-- BLOG-POST-LIST:START -->  
 <!-- Bakal diupdate blog kece gue -->  
