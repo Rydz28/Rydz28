@@ -147,12 +147,12 @@ Gue tuh developer yang lagi ngejar mimpi!
 <tr>
 <td align="center">
 <a href="https://power-to-do-list.netlify.app/">
-<img src="aset/Powet-To-Do-List.png" width="320" height="180" style="object-fit:cover;" onerror="this.src='https://user-images.githubusercontent.com/74038190/238355349-7c484d10-68c9-43f9-8ca9-b3c27e28a1ef.gif';" alt="Coffee Shop Project">
+<img src="https://user-images.githubusercontent.com/74038190/238355349-7c484d10-68c9-43f9-8ca9-b3c27e28a1ef.gif" width="320" height="180" style="object-fit:cover;" alt="Power To Do List Project">
 <br>
 <b>📋 Power To Do List</b>
 </a>
 <br>
-Website ni adalah membantu pengguna meningkatkan efisiensi, mengurangi stres akibat tumpukan pekerjaan, dan memberikan kendali penuh terhadap manajemen waktu dan tanggung jawab sehari-hari. 
+Website ini adalah membantu pengguna meningkatkan efisiensi, mengurangi stres akibat tumpukan pekerjaan, dan memberikan kendali penuh terhadap manajemen waktu dan tanggung jawab sehari-hari. 
 <br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -160,7 +160,8 @@ Website ni adalah membantu pengguna meningkatkan efisiensi, mengurangi stres aki
 </td>
 <td align="center">
 <a href="https://mini-projek-revou-portofolio.netlify.app/">
-<img src="aset/RevoU Portofolio.png" width="320" height="180" style="object-fit:cover;" onerror="this.src='https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif';" alt="Portfolio Website">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="320" height="180" style="object-fit:cover;" alt="Portfolio Website">
+</a>
 <br>
 <b>🌐 Personal Portfolio</b>
 </a>
