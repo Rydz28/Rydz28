@@ -122,21 +122,18 @@ Gue tuh developer yang lagi ngejar mimpi!
     </a>
 </div>
 
-<!-- Language stats with modern glow effect -->
 <div align="center">
     <a href="https://github.com/ryandz">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryandz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=80ffdb" alt="Top Languages" width="60%" />
     </a>
 </div>
 
-<!-- Contribution graph with modern animation -->
 <div align="center">
     <a href="https://github.com/ryandz">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryandz&bg_color=0D1117&color=00bfff&line=80ffdb&point=ffffff&area=true&area_color=00b4d880&hide_border=true" width="95%" alt="Activity Graph" />
     </a>
 </div>
 
-<!-- Animated Contribution Calendar -->
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryandz/ryandz/output/github-contribution-grid-snake-dark.svg" />
