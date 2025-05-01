@@ -130,17 +130,11 @@ Gue tuh developer yang lagi ngejar mimpi!
     <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Learning Progress">
 </div>
 
-### 🚀 Target Belajar
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Target Divider">
-</div>
-
-<table align="center" width="100%">
-    <tr>
-        <td align="center" width="50%">
-            <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="80" height="80">
-            <h4>🌐 Bikin website portfolio pribadi</h4>
+### 🚀 Target Belajar  
+- Bikin website portfolio pribadi  
+- Develop sistem informasi sederhana  
+- Belajar integrasi backend sama frontend  
+- Explore framework PHP kayak Laravel  
 
 ### 📚 Sumber Belajar Favorit  
 - YouTube tutorial  
