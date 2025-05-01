@@ -58,21 +58,21 @@
     <table>
         <tr>
             <td>
-                <h4>🎯 Current Focus</h4>
+                <h4>🎯 Fokus Gue Sekarang</h4>
                 <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="200px">
                 <ul>
-                    <li>🔭 Developing my web development portfolio</li>
-                    <li>🌱 Mastering React & Node.js ecosystem</li>
-                    <li>🔍 Exploring full-stack architecture patterns</li>
+                    <li>🔭 Ngembangain portofolio web development gue</li>
+                    <li>🌱 Nguasain React & Node.js sampe jago banget</li>
+                    <li>🔍 Jelajahin pola arsitektur full-stack</li>
                 </ul>
             </td>
             <td>
-                <h4>🧠 Learning Journey</h4>
+                <h4>🧠 Perjalanan Belajar Gue</h4>
                 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200px">
                 <ul>
-                    <li>📚 Started with YouTube tutorials & bootcamps</li>
-                    <li>🏆 Building projects from scratch</li>
-                    <li>🔄 Constant learning & improvement</li>
+                    <li>📚 Mulai dari nonton tutorial YouTube & ikut bootcamp</li>
+                    <li>🏆 Bikin proyek dari nol sampe jadi</li>
+                    <li>🔄 Belajar terus-terusan tanpa kendor</li>
                 </ul>
             </td>
         </tr>
@@ -80,26 +80,22 @@
 </div>
 
 <details>
-    <summary><b>✨ Coding Journey Timeline</b></summary>
+    <summary><b>✨ Timeline Perjalanan Ngoding Gue</b></summary>
     <div align="center">
         <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500px">
         <br><br>
         <table>
             <tr>
                 <td><b>🔹 Semester 1</b></td>
-                <td>First "Hello World" with HTML/CSS</td>
+                <td>Pertama kali bikin "Hello World" pake HTML/CSS</td>
             </tr>
             <tr>
                 <td><b>🔹 Semester 2</b></td>
-                <td>Started learning JavaScript basics</td>
+                <td>Mulai ngulik dasar JavaScript</td>
             </tr>
             <tr>
                 <td><b>🔹 Bootcamp</b></td>
-                <td>Deep dive into web development</td>
-            </tr>
-            <tr>
-                <td><b>🔹 Now</b></td>
-                <td>Building real-world projects & expanding knowledge</td>
+                <td>Nyemplung total ke dunia web development</td>
             </tr>
         </table>
     </div>
