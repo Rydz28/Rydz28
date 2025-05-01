@@ -148,65 +148,10 @@ Gue tuh developer yang lagi ngejar mimpi!
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Modern Tech Animation">
 </div>
 
-## 🚀 Proyek & Karya Gue Nih
-
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=70&lines=Proyek+%26+Kontribusi+Gue;Selalu+Belajar+Hal+Baru+%F0%9F%9A%80;Bikin+Website+Kece+%E2%9C%A8" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=70&lines=My+Projects+%26+Contributions;Always+Learning+%F0%9F%9A%80;Building+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
     </a>
-</div>
-
-### 💻 Proyek Kece Gue
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="background: rgba(0,0,0,0.2); border-radius: 10px; padding: 15px; width: 280px; box-shadow: 0 5px 15px rgba(0,191,255,0.15);">
-        <h3 style="color: #00bfff;">🛒 Toko Online PHP</h3>
-        <p>Web toko online pake PHP native & MySQL. Bikin dari nol banget ini mah!</p>
-        <div>
-            <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-        </div>
-    </div>
-    
-    <div style="background: rgba(0,0,0,0.2); border-radius: 10px; padding: 15px; width: 280px; box-shadow: 0 5px 15px rgba(0,191,255,0.15);">
-        <h3 style="color: #00bfff;">🎮 Website Game Sederhana</h3>
-        <p>Bikin game pake JavaScript vanilla. Gokil kan? Mainnya seru abis!</p>
-        <div>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-        </div>
-    </div>
-    
-    <div style="background: rgba(0,0,0,0.2); border-radius: 10px; padding: 15px; width: 280px; box-shadow: 0 5px 15px rgba(0,191,255,0.15);">
-        <h3 style="color: #00bfff;">📱 Landing Page Keren</h3>
-        <p>Desain pake Tailwind CSS, responsif banget di semua device!</p>
-        <div>
-            <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-        </div>
-    </div>
-</div>
-
-### 🔍 Yang Lagi Dikerjain
-
-<table align="center" style="border-spacing: 10px; border-collapse: separate;">
-    <tr>
-        <td align="center" style="background: rgba(0,0,0,0.2); border-radius: 10px; padding: 15px;">
-            <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-a01a58463026.gif" width="80" height="80" style="border-radius: 10px;">
-            <h4 style="color: #00bfff;">Web Portfolio Kece</h4>
-            <p>Lagi bikin portfolio yang ciamik abis pake Tailwind!</p>
-        </td>
-        <td align="center" style="background: rgba(0,0,0,0.2); border-radius: 10px; padding: 15px;">
-            <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.gif" width="80" height="80" style="border-radius: 10px;">
-            <h4 style="color: #00bfff;">Aplikasi Todo-List</h4>
-            <p>Lagi ngulik aplikasi todo pake JavaScript</p>
-        </td>
-    </tr>
-</table>
-
-<div style="margin-top: 30px;">
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Coding Animation">
-</div>
 </div>
 
 <div align="center">
