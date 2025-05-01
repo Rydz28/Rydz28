@@ -145,7 +145,17 @@ Gue tuh developer yang lagi ngejar mimpi!
 <div align="center">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Awesome Separator" width="100%">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Modern Tech Animation">
+</div>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=70&lines=My+Projects+%26+Contributions;Always+Learning+%F0%9F%9A%80;Building+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
+    </a>
+</div>
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=2,3,5,30&section=footer" width="80%" />
 </div>
 
 ## 🔥 Statistik GitHub Gue
