@@ -146,13 +146,13 @@ Gue tuh developer yang lagi ngejar mimpi!
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/Rydz28/coffe-shop">
-<img src="https://raw.githubusercontent.com/Rydz28/coffe-shop/main/preview.png" width="320" height="180" style="object-fit:cover;" onerror="this.src='https://user-images.githubusercontent.com/74038190/238355349-7c484d10-68c9-43f9-8ca9-b3c27e28a1ef.gif';" alt="Coffee Shop Project">
+<a href="https://power-to-do-list.netlify.app/">
+<img src="aset/Powet-To-Do-List.png" width="320" height="180" style="object-fit:cover;" onerror="this.src='https://user-images.githubusercontent.com/74038190/238355349-7c484d10-68c9-43f9-8ca9-b3c27e28a1ef.gif';" alt="Coffee Shop Project">
 <br>
 <b>☕ Coffee Shop Website</b>
 </a>
 <br>
-Website kece buat coffee shop dengan UI/UX yang sleek dan modern
+Website ni adalah membantu pengguna meningkatkan efisiensi, mengurangi stres akibat tumpukan pekerjaan, dan memberikan kendali penuh terhadap manajemen waktu dan tanggung jawab sehari-hari. 
 <br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
