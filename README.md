@@ -1,11 +1,12 @@
+
 <div align="center">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=header&text=Ryan%20Dzakwan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=27" alt="Header Kece"/>
     
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Coder Kece" style="border-radius: 20px; box-shadow: 0 5px 15px rgba(0,191,255,0.4);"/>
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Coder Kece" style="border-radius: 20px; box-shadow: 0 5px 15px rgba(0,191,255,0.4);"/>
     
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ayooo!+%F0%9F%91%8B+Gue+Ryan+Dzakwan+Adriansyah;Full+Stack+Web+Developer+Pemula;Selalu+Belajar+dan+Berkembang!;Let's+Connect+and+Create+Magic+%E2%9C%A8" alt="Typing SVG" />
-</a>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ayooo!+%F0%9F%91%8B+Gue+Ryan+Dzakwan+Adriansyah;Full+Stack+Web+Developer+Pemula;Selalu+Belajar+dan+Berkembang!;Let's+Connect+and+Create+Magic+%E2%9C%A8" alt="Typing SVG" />
+    </a>
 </div>
 
 <div align="center">
@@ -144,75 +145,7 @@ Gue tuh developer yang lagi ngejar mimpi!
 <div align="center">
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Modern Tech Animation">
-</div>
-
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=70&lines=My+Projects+%26+Contributions;Always+Learning+%F0%9F%9A%80;Building+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
-    </a>
-</div>
-
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=2,3,5,30&section=footer" width="80%" />
-</div>
-
-## 🚀 Proyek Kece Gue
-
-<div class="projects-container" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <!-- Project Card 1 -->
-  <div style="background: rgba(13,17,23,0.65); border-radius: 10px; overflow: hidden; width: 330px; box-shadow: 0 10px 30px rgba(0,191,255,0.15); border: 1px solid rgba(0,191,255,0.2);">
-    <a href="https://github.com/Rydz28/coffe-shop">
-      <img src="https://raw.githubusercontent.com/Rydz28/coffe-shop/main/preview.png" width="100%" style="height: 170px; object-fit: cover; border-bottom: 1px solid rgba(0,191,255,0.2);" onerror="this.src='https://user-images.githubusercontent.com/74038190/238355349-7c484d10-68c9-43f9-8ca9-b3c27e28a1ef.gif';" alt="Coffee Shop Project">
-    </a>
-    <div style="padding: 15px;">
-      <h3 style="margin: 0 0 10px; font-size: 18px; color: #00bfff;">☕ Coffee Shop Website</h3>
-      <p style="font-size: 14px; margin: 0 0 15px;">Website kece buat coffee shop dengan UI/UX yang sleek dan modern</p>
-      <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-        <span style="background: rgba(0,191,255,0.1); color: #00bfff; padding: 3px 8px; border-radius: 5px; font-size: 12px; border: 1px solid rgba(0,191,255,0.2);">HTML</span>
-        <span style="background: rgba(0,191,255,0.1); color: #00bfff; padding: 3px 8px; border-radius: 5px; font-size: 12px; border: 1px solid rgba(0,191,255,0.2);">CSS</span>
-        <span style="background: rgba(0,191,255,0.1); color: #00bfff; padding: 3px 8px; border-radius: 5px; font-size: 12px; border: 1px solid rgba(0,191,255,0.2);">JavaScript</span>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Project Card 2 -->
-  <div style="background: rgba(13,17,23,0.65); border-radius: 10px; overflow: hidden; width: 330px; box-shadow: 0 10px 30px rgba(0,191,255,0.15); border: 1px solid rgba(0,191,255,0.2);">
-    <a href="https://github.com/Rydz28/personal-portfolio">
-      <img src="https://raw.githubusercontent.com/Rydz28/personal-portfolio/main/preview.png" width="100%" style="height: 170px; object-fit: cover; border-bottom: 1px solid rgba(0,191,255,0.2);" onerror="this.src='https-//user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif'" alt="Portfolio Website">
-    </a>
-    <div style="padding: 15px;">
-      <h3 style="margin: 0 0 10px; font-size: 18px; color: #00bfff;">🌐 Personal Portfolio</h3>
-      <p style="font-size: 14px; margin: 0 0 15px;">Website portofolio personal yg gue buat pake HTML, CSS & JavaScript</p>
-      <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-        <span style="background: rgba(0,191,255,0.1); color: #00bfff; padding: 3px 8px; border-radius: 5px; font-size: 12px; border: 1px solid rgba(0,191,255,0.2);">HTML</span>
-        <span style="background: rgba(0,191,255,0.1); color: #00bfff; padding: 3px 8px; border-radius: 5px; font-size: 12px; border: 1px solid rgba(0,191,255,0.2);">CSS</span>
-        <span style="background: rgba(0,191,255,0.1); color: #00bfff; padding: 3px 8px; border-radius: 5px; font-size: 12px; border: 1px solid rgba(0,191,255,0.2);">JavaScript</span>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Project Card 3 -->
-  <div style="background: rgba(13,17,23,0.65); border-radius: 10px; overflow: hidden; width: 330px; box-shadow: 0 10px 30px rgba(0,191,255,0.15); border: 1px solid rgba(0,191,255,0.2);">
-    <a href="https://github.com/Rydz28/simple-crud">
-      <img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" width="100%" style="height: 170px; object-fit: cover; border-bottom: 1px solid rgba(0,191,255,0.2);" alt="CRUD App">
-    </a>
-    <div style="padding: 15px;">
-      <h3 style="margin: 0 0 10px; font-size: 18px; color: #00bfff;">📝 Simple CRUD App</h3>
-      <p style="font-size: 14px; margin: 0 0 15px;">Aplikasi CRUD sederhana pake PHP & MySQL buat manajemen data</p>
-      <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-        <span style="background: rgba(0,191,255,0.1); color: #00bfff; padding: 3px 8px; border-radius: 5px; font-size: 12px; border: 1px solid rgba(0,191,255,0.2);">PHP</span>
-        <span style="background: rgba(0,191,255,0.1); color: #00bfff; padding: 3px 8px; border-radius: 5px; font-size: 12px; border: 1px solid rgba(0,191,255,0.2);">MySQL</span>
-        <span style="background: rgba(0,191,255,0.1); color: #00bfff; padding: 3px 8px; border-radius: 5px; font-size: 12px; border: 1px solid rgba(0,191,255,0.2);">Bootstrap</span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Rydz28?tab=repositories" target="_blank" style="display: inline-block; margin-top: 15px; background: linear-gradient(135deg, #00b4d8, #00e5ff); color: #0d1117; font-weight: bold; padding: 10px 25px; text-decoration: none; border-radius: 25px; font-size: 16px; transition: all 0.3s; box-shadow: 0 5px 15px rgba(0,191,255,0.3);">
-    Liat Semua Project Gue →
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Awesome Separator" width="100%">
 </div>
 
 ## 🔥 Statistik GitHub Gue
@@ -225,7 +158,6 @@ Gue tuh developer yang lagi ngejar mimpi!
 
 <div align="center">
     <a href="https://github.com/Rydz28">
-
 </div>
 
 <div align="center">
